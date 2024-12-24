@@ -1,0 +1,829 @@
+$ node  botrefatorado100_v3.js
+Enviando mensagens em 14 lotes...
+Processando lote 1 de 14...
+Mensagem enviada para Nutricionista Thais Scatena: {"sent":"true","message":"ok","id":1}
+Mensagem enviada para Lucas Lima Nutrologia: {"sent":"true","message":"ok","id":2}
+Mensagem enviada para Clínica Nutrocorpus: {"sent":"true","message":"ok","id":3}
+Mensagem enviada para Pure Pilates São Bernardo do Campo Centro: {"sent":"true","message":"ok","id":4}
+Mensagem enviada para Clínica de Estética Aline Andrade: {"sent":"true","message":"ok","id":6}
+Mensagem enviada para Nutricionista Vila Mariana Camila Cavalari: {"sent":"true","message":"ok","id":7}
+Mensagem enviada para Dra Marianna Magri Médica Nutrologa em Itaim Bibi: {"sent":"true","message":"ok","id":5}
+Mensagem enviada para LeveMente Nutrição e Coach de Emagrecimento Consciente: {"sent":"true","message":"ok","id":9}
+Mensagem enviada para Michelle Cruz: {"sent":"true","message":"ok","id":8}
+Mensagem enviada para Espaço Sabrina Luz Unidade São Caetano: {"sent":"true","message":"ok","id":10}
+Mensagem enviada para Academia Smart Fit Campinas: {"sent":"true","message":"ok","id":11}
+Mensagem enviada para Unidade Clínica Emagrecer: {"sent":"true","message":"ok","id":12}
+Mensagem enviada para Nutricionista Marcio Hiyane: {"sent":"true","message":"ok","id":13}
+Mensagem enviada para Dr. Natan Strazzeri Moraes: {"sent":"true","message":"ok","id":14}
+Mensagem enviada para Cia Athletica: {"sent":"true","message":"ok","id":15}
+Mensagem enviada para Instituto I.L.A.: {"sent":"true","message":"ok","id":16}
+Mensagem enviada para Dra. Viviane de Oliveira Santiago: {"sent":"true","message":"ok","id":17}
+Mensagem enviada para Viva Academia: {"sent":"true","message":"ok","id":18}
+Mensagem enviada para Clínica Terapias Avançadas: {"sent":"true","message":"ok","id":19}
+Mensagem enviada para Clínica Otorrino Dra. Luana: {"sent":"true","message":"ok","id":20}
+Mensagem enviada para Fit Gym: {"sent":"true","message":"ok","id":21}
+Mensagem enviada para Dr. Eduardo Prado: {"sent":"true","message":"ok","id":22}
+Mensagem enviada para Centro Médico São Judas: {"sent":"true","message":"ok","id":23}
+Mensagem enviada para Nutricionista Letícia Bricio: {"sent":"true","message":"ok","id":24}
+Mensagem enviada para Estética Claudia Sanches: {"sent":"true","message":"ok","id":27}
+Mensagem enviada para CrossFit MK-1 Vila Galvão: {"sent":"true","message":"ok","id":28}
+Mensagem enviada para Alphaville Tênis Clube: {"sent":"true","message":"ok","id":26}
+Mensagem enviada para Smart Fit Campinas: {"sent":"true","message":"ok","id":25}
+Mensagem enviada para Clínica Saúde e Bem Estar: {"sent":"true","message":"ok","id":29}
+Mensagem enviada para Dra. Renata Guimarães: {"sent":"true","message":"ok","id":30}
+Mensagem enviada para Comunitária Yoga: {"sent":"true","message":"ok","id":31}
+Mensagem enviada para Nutricionista Thaís Rocha: {"sent":"true","message":"ok","id":32}
+Mensagem enviada para Sabor & Saúde Nutrição: {"sent":"true","message":"ok","id":33}
+Mensagem enviada para Academia do Corpo: {"sent":"true","message":"ok","id":34}
+Mensagem enviada para Espaço Funcional Campinas: {"sent":"true","message":"ok","id":35}
+Mensagem enviada para Dra. Juliana Bastos: {"sent":"true","message":"ok","id":36}
+Mensagem enviada para Academia Pulse Fitness: {"sent":"true","message":"ok","id":37}
+Mensagem enviada para Consultório de Nutrição Ingrid Costa: {"sent":"true","message":"ok","id":38}
+Mensagem enviada para Clínica Juliana Souza: {"sent":"true","message":"ok","id":39}
+Mensagem enviada para Studio de Pilates Equilíbrio: {"sent":"true","message":"ok","id":40}
+Mensagem enviada para Consultório Dra. Camila Ribeiro: {"sent":"true","message":"ok","id":41}
+Mensagem enviada para Alphaville Fitness Center: {"sent":"true","message":"ok","id":42}
+Mensagem enviada para Consultório de Nutrição Mariana Lima: {"sent":"true","message":"ok","id":43}
+Mensagem enviada para Fitness Club Alpha: {"sent":"true","message":"ok","id":44}
+Mensagem enviada para Espaço Natural Vida Saudável: {"sent":"true","message":"ok","id":47}
+Mensagem enviada para Consultório Nutricional Lara Silva: {"sent":"true","message":"ok","id":46}
+Mensagem enviada para Espaço Saúde Vida: {"sent":"true","message":"ok","id":48}
+Mensagem enviada para Clínica Medica Mariana Andrade: {"sent":"true","message":"ok","id":45}
+Mensagem enviada para Centro de Bem-Estar e Saúde: {"sent":"true","message":"ok","id":49}
+Mensagem enviada para Nutricionista Rafael Costa: {"sent":"true","message":"ok","id":50}
+Mensagem enviada para Clínica de Estética Nani Barreto: {"sent":"true","message":"ok","id":51}
+Mensagem enviada para Academia FitLife: {"sent":"true","message":"ok","id":52}
+Mensagem enviada para Academia Corpo e Mente: {"sent":"true","message":"ok","id":54}
+Mensagem enviada para Consultório de Nutrição Aline Lima: {"sent":"true","message":"ok","id":53}
+Mensagem enviada para Academia Performance Total: {"sent":"true","message":"ok","id":57}
+Mensagem enviada para Clínica de Emagrecimento Cristina Ferreira: {"sent":"true","message":"ok","id":56}
+Mensagem enviada para Atitude Fitness: {"sent":"true","message":"ok","id":55}
+Mensagem enviada para Clinica Dra. Beatriz Oliveira: {"sent":"true","message":"ok","id":58}
+Mensagem enviada para Espaço Bem-Estar Zen: {"sent":"true","message":"ok","id":59}
+Mensagem enviada para Consultório de Estética e Nutrição: {"sent":"true","message":"ok","id":60}
+Mensagem enviada para Consultório Dra. Sandra Costa: {"sent":"true","message":"ok","id":61}
+Mensagem enviada para Espaço Vida Saudável: {"sent":"true","message":"ok","id":62}
+Mensagem enviada para Nutricionista Daniela Souza: {"sent":"true","message":"ok","id":63}
+Mensagem enviada para Studio de Pilates Vida Ativa: {"sent":"true","message":"ok","id":64}
+Mensagem enviada para Clínica Equilibrio Vital: {"sent":"true","message":"ok","id":65}
+Mensagem enviada para Academia Premium: {"sent":"true","message":"ok","id":66}
+Mensagem enviada para Espaço Zen Relax: {"sent":"true","message":"ok","id":67}
+Mensagem enviada para Clínica Vivaz: {"sent":"true","message":"ok","id":68}
+Mensagem enviada para Academia Força & Saúde: {"sent":"true","message":"ok","id":69}
+Mensagem enviada para Instituto de Nutrição Carolina Alves: {"sent":"true","message":"ok","id":71}
+Mensagem enviada para Clínica Fisioterapêutica Vital: {"sent":"true","message":"ok","id":70}
+Mensagem enviada para Clínica Nutrição e Saúde: {"sent":"true","message":"ok","id":72}
+Mensagem enviada para Academia Treinamento Total: {"sent":"true","message":"ok","id":73}
+Mensagem enviada para Clínica Terapêutica Integral: {"sent":"true","message":"ok","id":74}
+Mensagem enviada para Academia Lifestyle: {"sent":"true","message":"ok","id":75}
+Mensagem enviada para Consultório Dra. Juliana Costa: {"sent":"true","message":"ok","id":76}
+Mensagem enviada para Clínica Estética & Bem-Estar: {"sent":"true","message":"ok","id":77}
+Mensagem enviada para Consultório Nutrição e Bem-Estar: {"sent":"true","message":"ok","id":78}
+Mensagem enviada para Academia Power Gym: {"sent":"true","message":"ok","id":80}
+Mensagem enviada para Academia Excelência Fitness: {"sent":"true","message":"ok","id":79}
+Mensagem enviada para Clínica Fisiofit: {"sent":"true","message":"ok","id":81}
+Mensagem enviada para Espaço Bem Viver: {"sent":"true","message":"ok","id":82}
+Mensagem enviada para Espaço de Saúde Saúde & Zen: {"sent":"true","message":"ok","id":83}
+Mensagem enviada para Nutricionista Paula Martins: {"sent":"true","message":"ok","id":84}
+Mensagem enviada para Clínica Estética Gisele Moreira: {"sent":"true","message":"ok","id":85}
+Mensagem enviada para Clínica Médica Dr. Paulo Souza: {"sent":"true","message":"ok","id":86}
+Mensagem enviada para Espaço Saúde e Bem-Estar: {"sent":"true","message":"ok","id":87}
+Mensagem enviada para Consultório Dra. Maria Silva: {"sent":"true","message":"ok","id":88}
+Mensagem enviada para Academia Vida Fitness: {"sent":"true","message":"ok","id":89}
+Mensagem enviada para Clínica Vida Saudável: {"sent":"true","message":"ok","id":90}
+Mensagem enviada para Studio Fit&Health: {"sent":"true","message":"ok","id":91}
+Mensagem enviada para Clínica de Estética Flávia Fernandes: {"sent":"true","message":"ok","id":92}
+Mensagem enviada para Academia Vital Fitness: {"sent":"true","message":"ok","id":93}
+Mensagem enviada para Nutricionista Gabriela Oliveira: {"sent":"true","message":"ok","id":94}
+Mensagem enviada para Espaço Atitude Fitness: {"sent":"true","message":"ok","id":95}
+Mensagem enviada para Academia Ativa: {"sent":"true","message":"ok","id":96}
+Mensagem enviada para Clínica Nova Vida: {"sent":"true","message":"ok","id":97}
+Mensagem enviada para Nutricionista Mariana Gomes: {"sent":"true","message":"ok","id":98}
+Mensagem enviada para Studio de Pilates Flex: {"sent":"true","message":"ok","id":99}
+Mensagem enviada para Clínica Vivenda da Saúde: {"sent":"true","message":"ok","id":100}
+Lote 1 enviado com sucesso.
+Aguardando 10 segundos antes de enviar o próximo lote...
+Processando lote 2 de 14...
+Erro ao enviar para Consultório Dra. Amanda Costa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Ana Paula Souza: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Essência Vital: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Espaço Saúde & Bem Estar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Pulse Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Beatriz Almeida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Integral de Saúde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Centro Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Shape Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Nutricional Dra. Fernanda Lima: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Zen Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Marcos Silva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Espaço Saúde Integral: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Bem Viver: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Espaço Bem-Estar Saúde & Sorrisos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Espaço Equilíbrio e Saúde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Bem Estar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Dr. Roberto Pires: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Fabio Almeida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Prime: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Leonardo Pereira: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Rodrigo Silva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Caroline Rocha: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Foco & Saúde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica de Nutrição e Bem-Estar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Elite Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Marcos Souza: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Larissa Menezes: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde & Bem Estar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Espaço Nutrição e Bem-estar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Vida Nova: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia SuperFit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Power & Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Viva Saúde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Fit Club: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Vitalidade & Saúde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Nova Era: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Elisa Rodrigues: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Mariana Costa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Roberta Lima: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Fit Max: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Vitalidade: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia GoldFit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Carla Pinto: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Bem-Estar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Viva Bem: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Felipe Santos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Tudo Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Renata Oliveira: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Mega Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Gustavo Costa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Power Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Fit Life: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Mariana Lima: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Gym Power: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde Natural: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia StrongFit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Total Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Flex Power: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Bem Estar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Lucas Martins: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Carla Souza: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Pedro Almeida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Andre Silva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia SuperFit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Ana Beatriz: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Sandra Costa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia ProFit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Larissa Alves: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Corpo Ativo: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Tania Lima: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Fit House: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Total Vida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Felipe Costa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Rodrigo Souza: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Ana Carolina: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Total Care: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Fitness Place: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde & Bem-Estar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Equilíbrio e Saúde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia PowerFit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde Viva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde Perfeita: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Bem Viver: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Patricia Silva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Max Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Extreme Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde Total: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Vital Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica VitalPlus: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Corpo & Mente: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde Plena: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia FlexFit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica EmForma: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica ClínicaViva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Fabio Pereira: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Essência da Vida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Vida Saudável: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia FitUp: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde e Vida: {"error":"Message was not sent: demo daily limit exceeded"}
+Lote 2 enviado com sucesso.
+Aguardando 10 segundos antes de enviar o próximo lote...
+Processando lote 3 de 14...
+Erro ao enviar para Clínica Saúde Integral: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Gabriela Costa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Nova Era: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Bio Vida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Green Health: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Mais Saúde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde e Bem Estar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Rita Oliveira: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Fernanda Souza: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Body Power: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde Nova: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Pedro Rocha: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Vida Plena: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia New Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Vida Saudável Plus: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Vida Nova: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Laura Ferreira: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Ricardo Ferreira: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Tradição e Saúde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Bem Viver: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Evolution: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Top Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Carlos Eduardo: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Pro Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Força Total: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Ricardo Mendes: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Full Power: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Equilíbrio e Vida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Gustavo Santos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Vida Saudável: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Supreme Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Mariana Oliveira: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. João Oliveira: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Up Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Fit Power: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Vitalidade: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Jorge Almeida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Renata Lima: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Cuidar Bem: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Igor Almeida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Bio Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Fast Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde do Futuro: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Viva Bem: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Extreme Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Julia Costa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Vida Ativa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Power Life: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde Feliz: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Vida e Saúde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde Para Todos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Felipe Lima: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Beatriz Almeida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Rafael Souza: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. André Pereira: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Health Performance: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Bem Viver Saúde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Terapia e Bem Estar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Karina Souza: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Lucas Mello: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Espaço Saúde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Ana Silva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Max Power: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Power Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Energy Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Eduardo Santos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Power Max: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde Viva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Estética e Saúde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Bem Cuidada: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Carla Rodrigues: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Health Club: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Viver Bem: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Full Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Laura Mendes: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Strong Life: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Fernanda Oliveira: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Sorriso Alegre: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Power Up: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Nova Vida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Felipe Almeida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde e Harmonia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Evolution Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Viva Bem Estar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Fitmax: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde Completa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Larissa Souza: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Total Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Nova Saúde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Marcos Silva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia FitLife: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Tatiane Costa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Body Challenge: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Bem Estar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Mente Sana: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Marcos Costa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Power Shape: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Amanda Pinto: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Zen: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Estilo de Vida: {"error":"Message was not sent: demo daily limit exceeded"}
+Lote 3 enviado com sucesso.
+Aguardando 10 segundos antes de enviar o próximo lote...
+Processando lote 4 de 14...
+Erro ao enviar para Academia Fit Space: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. José Fernandes: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Nova Vida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Beatriz Almeida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Power Training: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde Integral: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Shape Plus: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Mega Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Bem Estar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Eduardo Costa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Smart Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Vida Nova: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Fit Center: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde Total: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Bem Viver: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Karla Gomes: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Fabio Gomes: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Strong Power: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Fit Express: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Luana Nascimento: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Salute: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Leticia Silva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Fit Zone: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Saúde Essencial: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dra. Paula Martins: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Esportivo Guilherme Moura: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Hangar 193 Crossfit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Fitness Life: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Antonio Lima: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Empório Magna Vita Loja de Produtos Naturais: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Cross São Bernardo Academia de Cross training: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nathalia Malaspina Nutricionista Clinica, Esportiva e Vegetariana em Guarulhos: {"error":"Message was not sent: demo daily limit exceeded"}  
+Erro ao enviar para B4thor CrossFit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Ray Personal Trainer: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para BodySaver Suplementos Vila Zelina: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Plus 360 Training: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Esportivo Guilherme Moura: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Pure Pilates Guarulhos Presidente Dutra: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Scherk Saúde, Estética e Performance: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para RB Champs Santo Amaro | Crossfit em Santo Amaro: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Espaço Nutrition J&M: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para WOLF CROSS GRU: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio Tech TrainerPersonalT Funcional: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Angela Nogueira Distribuidora Independente Omni: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CrossFit Saurus Bosque Maia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Studio XV: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Viva Saúde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Emporio Nutri Life: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para BlackSheep Fit Berrini: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio Creative Pilates e Fisioterapia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Centro De Treinamento STRONGEST: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia de Musculação e Ginástica Step By Step: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para BioArt Fisioterapia e Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Ideal Training: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutrafit Suplementos Pátio Paulista: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica KM Saúde e Emagrecimento: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Space Pilates Therapy: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Natural Zone Produtos Naturais: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Semente & Raiz: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CrossFit Saurus Anália: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Pure Pilates Maceió Jatiúca: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Neofit Musculação | Lutas | Dança | Academia Completa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Body Impact: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Edna Farias Nutricionista: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para BOX CENTRO GuarulhosAcademia Crosstraining: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Tatuapé Dra. Karina Valentim: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Body Energy Fit Loja de Suplementos Moema São Paulo: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Materno Infantil Guarulhos Izabelli Tavares: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Will Fit Personal Trainer Consultoria de emagrecimento , Treinos ON-LINE: {"error":"Message was not sent: demo daily limit exceeded"}        
+Erro ao enviar para RB NUTRI Renata Buzzini: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Milk Shake Mix: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Crossfit Rudge Ramos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Integrativa Dra. Gleiciele Henriques | Clínica GH: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Karen Personal Trainer: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Milk Shake Mix: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Consultório Dr. Ricardo Almeida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio Pro Wellness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Pilates Vila Madá: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Empório Magna Vita: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para MY BOX HOME CROSS SP Zona Norte/Jardim Brasil: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Soul Original Pilates Studio: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para GR PRO SUPLEMENTOS: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Pure Pilates Alto da Boa Vista: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para URB FITNESS: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista João Malta Nutrição Clínica e Esportiva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para @personal_william_lucas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dr. Altamir Vaz: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Loja De Suplementos Bem Estar Nutrição: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para nutritionist guarulhos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Integrada Camila Fontes: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Marra Fit Maia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para YouFit Saúde Clinica Estética em Suzano, Nutricionista em suzano e Studio de Pilates em Suzano, Clinica de Emagrecimento em Suzano, Tratamentos estéticos Suzano.: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Blindado CrossFit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Palácio Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Shake & Burguer: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para SuperNova Estúdio de Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para FM consultoria Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para OHANA STUDIO PILATES: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutri Esportivo Yuri Belo Nutrição da Vida Real: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para personal Trainer Rafael V Machado: {"error":"Message was not sent: demo daily limit exceeded"}
+Lote 4 enviado com sucesso.
+Aguardando 10 segundos antes de enviar o próximo lote...
+Processando lote 5 de 14...
+Erro ao enviar para Açaí Shake: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Andreo Personal Trainer Premium: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Milk Shake Mix Arbela: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Kratos Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Camila Neves Nutricionista: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Espaco saúde pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Attitude Fitness Academy: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para PANOBIANCO BOA VISTA: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Star Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Milk Shake Top Mania: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia fight ANT: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Twelve Studio: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Fitness Brasil: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Milk Shake Mix Jardim Cumbica: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Centro de Treinamento Eugênio Fontes: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra Valéria Hala Nutricionista Esportiva e Clínica Bioimpedância: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dr. Eduardo Cavalcante Nutrólogo: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Rytmos life: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Trainer Academia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra. Daniely Catharino: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para João Noya Personal: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Atacadão do Natural Guarulhos I: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Empório Magna Vita Loja de Produtos Naturais: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Df Master Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Thaís Freitas Nutricionista em Guarulhos: Especialista em Emagrecimento Saudável em Guarulhos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Panobianco Boavista Shopping: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Wellev | Nutrólogo para Hipertrofia, Emagrecimento e Cuidado Integral em Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Camila Neves Nutricionista: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Now Nutrição Esportiva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para UNE Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Win Suplementos Alimentares: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Pure Pilates São Bernardo do Campo Assunção: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Crossfit Bronx • Brooklin e Berrini: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra. Fernanda Ribeiro Nutrologia, Medicina Esportiva e Dor: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Carol Faria Nutritionist SP: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Personal Trainer e Assessoria Esportiva Dan Champions Musculação: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Milk Shake Mix Jardim Cumbica: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Mega Nutrition | Loja de Suplemento Alimentar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CT NS Dreams: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Titanium Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Prime: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Tea Shop Vila Madalena: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra Jéssica Sales Nutróloga em Guarulhos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para My Box Capitão Academia de Crosstraining: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Fast Fit Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Mob Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dr. Rafael Del Picchia Nutrólogo em Guarulhos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio de Pilates Gisele Mukai: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dr Lucas Faria Nutrólogo referência em Emagrecimento | Reposição hormonal | Implantes hormonais | Anália Franco São Paulo: {"error":"Message 
+was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra. Mìlena Andrienco: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Leven Academies Paradise: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Personal Trainer Bruno Raphaelian Atendimento em Moema, Brooklin e Campo Belo: {"error":"Message was not sent: demo daily limit exceeded"}   
+Erro ao enviar para Yellow Monkey Crossfit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Angélica Padilha: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Judo Sensei Suga: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Shake Conceito: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para KAZA CrossFit Academia no Jardins, SP: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Regenera | Nutrição, Saúde e Bem-Estar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Entreposto Nutraer Mega Isotônico para Eventos Esportivos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Vivi Duarte Yoga Aulas Particulares: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Crepes Shakes & Co Shopping Morumbi: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia de Personal Trainer Estúdio 7: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Pure Pilates Vila Clementino: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Drogasil: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CEM Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra Letícia Nano Nutrologia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Bruno Lima Personal Trainer em São Paulo: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para EA Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para WR SUPLEMENTOS: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CROSSFIT JUNTOS SAÚDE E BEM-ESTAR: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para SIMONE CASTELLANI NUTRICIONISTA / ATENDIMENTOS ON LINE E PRESENCIAL: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Protein House Loja de Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Priscila Lino: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para +NOTVIT Produtos naturais: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Unique Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Inova Estúdio de Pilates e Academia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para H8 Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Milk Shake Mix, Cuiabá (Sorvete e Açaí): {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Barcellano Personal Trainer: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Van Gonçalves Personal: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para AS Studio Personal Trainer: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Sanny Gomes Ortiz: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra Gabriela Streit Medicina Funcional/Nutrologia/Ortomolecular: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Mirian Ribeiro: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Personal Trainer Anderson Pereira: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio Joana Rodrigues: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Personal Trainer Artur Mota: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Evoque Academia Heliópolis: Pilates, Muay thai, Jiu jitsu, Artes Marciais, SP: {"error":"Message was not sent: demo daily limit exceeded"}   
+Erro ao enviar para Dra. Verônica C. Bosque Nutróloga Pediatra: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Rei do Mate: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Mens sana Pilates e Fisioterapia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Drogasil: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CrossFit Mooca: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para R3 White River Academy: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Stúdio Bem Estar Funcional: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Benesser Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para 2Perform Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dr. Rafael Almeida Nutricionista Esportivo e Massoterapeuta: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Tais Rímoli: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Esquina Campo Grande Burger & Shake: {"error":"Message was not sent: demo daily limit exceeded"}
+Lote 5 enviado com sucesso.
+Aguardando 10 segundos antes de enviar o próximo lote...
+Processando lote 6 de 14...
+Erro ao enviar para CrossFit Mahaw: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Aspen Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para VOLL STUDIO PILATES VILA ITAPURA: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dr. Marcos Silva CRM: 201524 Emagrecimento Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para R.S Personal Trainer: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Taquaral Fit Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para John Boyd Suplementos Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para G7 Nutrição Esportiva Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Four Fit Cross Training: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia John Boyd: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para TopWay Nutrição Esportiva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Isabela Decanini: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Crossfit Moikanos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio Thaís Rodrigues Pilates & Terapia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CFP9 Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Bluefit Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Top Mais Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Milk Shake Mix Barão Geraldo Açaí, Churros, Sorvetes e Muito Mais: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Campinas Fit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Marina Giraldin: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nosso Box Fitness Center Cross Training Crossfit Funcional Academia Nova Europa Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra. Bruna Patrão | Médica: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Suplemento Já: Sua Loja Online de Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutrologia em Campinas SP Dr. Wantuilde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para MADUH PERSONAL E NUTRICIONISTA CAMPINAS: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Espina Personal Trainer: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Life Team Academia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Johnny Joy Milkshakes Iguatemi Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para My Box Campinas Cross Training / Musculação: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Sorveteria e Açaí Milk Shake Mix/Padre Anchieta: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Expressão Academia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para EXTREME ACADEMIA CAMPINAS: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Erika Saraiva Nutricionista Clínica: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Mr Mix Milk Shakes BH Centro: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Spartan Cross: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Tudo Fisio Studio de Pilates e Fisioterapia no Taquaral: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra. Gisele Figueiredo Nutrologia, Emagrecimento, Reposição Hormonal: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Campinas Gabriela Milanez I Emagrecimento e Saúde da Mulher: {"error":"Message was not sent: demo daily limit exceeded"}       
+Erro ao enviar para Sorveteria Pop Shake: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutrifit Suplementos Nutricionais: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Pilates Central Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Lazuli Studio Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Impactum: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Dinâmica: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CF Taquaral: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Inspire Pilates A Academia Nova Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Camila Fazio Studio Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para AFS Avaliação Física e Personal Trainer: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Priscilla Mazzonetto Nutricionista Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nova Natural Farmácia de Manipulação & Homeopatia Unidade Jardim Aeroporto: {"error":"Message was not sent: demo daily limit exceeded"}      
+Erro ao enviar para Dona Baunilha Doceria Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para VG SUPLEMENTOS: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dr. Matteo Sonati Nutricionista Emagrecimento Ansiedade e Fitoterapia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio OneFit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Happy Foods Floripa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para BodyPower Suplementos [Taquaral]: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Café da Vila: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Cross Elite Training: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Intensity Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para MALABARISTA CAFÉS ESPECIAIS: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CrossFit Mahi: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Moove Pilates Studio: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CrossFit Campinas Premium: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Personal Trainer Michel Sangion: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para The Greenhouse Cafe: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Sportler Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para +Q Açai Campinas | Açai no Copo | Salada de Frutas | Milk Shake | Fazemos Entrega: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Banca da Dona Vita: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Fernanda Pucci: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Compre o Melhor Suplemento: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Thays Cardoso Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Babel Café & Bistrô: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra. Graziela Silva Nutróloga & Medicina Integrativa | Consultas Particulares: {"error":"Message was not sent: demo daily limit exceeded"}   
+Erro ao enviar para Divino Verde Kokedama e Café: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Great Cross Training: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Ana Rolfsen Nutricionista Clínica e Esportiva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio Pilates Tijuca: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Treinamento Funcional Campinas Saúde em Movimento: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia BioFit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Campinas Gabriella Oliveira: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para BORA! Fitness U. Santa Catarina SG: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para KASA CHÁ: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dr. Pedro Fernandes | Nutrologia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Garagem Fit Treinamento Funcional Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Gaviões 24h Premium Taquaral: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Tenda Yoga Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para HR Fitness Maria Paula: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Kronos CrossFit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Luma Gomes Saúde e Qualidade de Vida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clinica Reabilitar: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Almah Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Mariah Rangel: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Empório Chá da Mata: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio de Pilates Corpo em Movimento: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para MR2 Suplementos Loja 5: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Café Pilão: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Crossfit WOD Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Family Shake: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Antônio Carlos Pilates Campinas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Acupunturista e Nutricionista Carolina Borba: {"error":"Message was not sent: demo daily limit exceeded"}
+Lote 6 enviado com sucesso.
+Aguardando 10 segundos antes de enviar o próximo lote...
+Processando lote 7 de 14...
+Erro ao enviar para Clínica de Nutrição RS Consulte Saúde Nutricionista Roberta Santiago: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Mr Shake Campo Grande: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nova Rio Sport: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Cross fire: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para GS Suplementos Campo Grande: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CR Vitaminas| Loja de Suplementos| Suplementos e Produtos Naturais |Na Tijuca, RJ: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Powerful Supplements: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para DVitaminas Metro Carioca: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista no Rio de Janeiro Dra. Jéssica Bueno: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutrologo No Centro Rio de Janeiro RJ | Ortomolecular | Emagrecimento | Nutrologia | Instituto Dr. Rodrigo Junqueira: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Thanos suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para PREPOSTO: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para The Legacy Crossfit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Pilates Studio Up: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista em Campo Grande, RJ | Vanusa Barros Emagrecimento Saudável e Nutrição Personalizada: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Uma Vida Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Bulk Suplementos São Gonçalo: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Mega Vitam Suplementos e acessórios para atletas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para BRUK Barra da Tijuca: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio De Pilates Luciene Jardim: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Brazil Usa Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Mirella Da Cal: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Echoes Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para LS Training: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Ruana Paiva Nutricionista em São Gonçalo e Niterói l Nutrição Esportiva e Emagrecimento: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Barra Fit Funcional Studio: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Nutrobarra | Nutrologia Avancada: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Isabel Vieira Nutricionista da Endometriose: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Infantaria F2: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Tijuca Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Esportivo Renato Gomes Zona Sul RJ: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutrologia e Endocrinologia Rio de Janeiro Dra. Aline Abreu: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra Nathália Felix Nutróloga IPANEMA Rio de Janeiro: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Energy Pilates e Fisioterapia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Neuronutricionista Mábia Quintanilha: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Espaço Terapias do Corpo: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Fisiocorp Pilates Barra da Tijuca RJ: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Azambuja Andrade | Endócrinologia / Nutrologia / Emagrecimento | São GonçaloRJ: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Gabriela Moraes Nutricionista Copacabana Zona Sul RJ Online: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para ACADEMIA SHAPE FIT Studio: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Box Athena Crossfit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Tuyla Class Nutricionista Esportiva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para ACADEMIA OLIVEIRA DE JIU JITSU E ARTES MARCIAIS: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para crosstreinooficial: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Lune Passion Chá de Lingerie e Boutique Sensual: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Crown Copacabana: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Fit Place: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio Rio Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Elaine de Moura Nutricionista vegetariana e comportamental Online: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Box Campo Grande: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Tupã São Gonçalo: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dr. Edmundo Borges Espaço Zanama Downtown | Nutrologia Esportiva no Rio de Janeiro: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Instituto Dr. Fábio Onei RJ Nutrologia e Emagrecimento: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CR Vitaminas & Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Júlio César Personal Trainer: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Jeferson lima Personal training: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra Jessica Meireles Nutricionista: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Cross Hero Campo Grande Academia Box de Crossfit/Crosstraining: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Ivan Junior: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Inox Crossfit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Saúde e Movimento (Fisioterapia e Pilates): {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Pablo Mendes: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Podium Academia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Império Suplementos BH: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Cross Center Ouro Preto BH: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Brave Community Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dr. Pedro Miguel Nutricionista clinico e esportivo: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Personal Clayton Black: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para oli: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Strong Body Fitness suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Pure Pilates Belo Horizonte Mangabeiras: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Crossfit BH Mangabeiras: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Heuz CrossFit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Lifebox Burgers, Steaks and Shakes: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra. Isabella Marx Médica Nutróloga: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Ana Duarte Nutricionista: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Espaço Único: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Xodó: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Performance 2 Uberlândia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Personal Trainer em BH Guilherme Henrique Santos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CF4x4 Lourdes: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Top suplementos Atacado e Varejo: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Natribo Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Fit Suplementos BH: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CASA DOS CHÁS, PRODUTOS NATURAIS E PLANTAS MEDICINAIS: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Residencial Portal dos Ipês Unidade Saude Funcional: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para K437CROSS: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Policarpo Personal: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para DR. JUAN BERNARD NUTROLOGO BH: {"error":[{"to":"Wrong 'to' format for element (319843). 'to' format : 14155552671@c.us or 14155552671-441234567890@g.us"}]}
+Erro ao enviar para Dra Ellen Durães: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CT Big Iron Academia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para MoveLab Pilates Nutricionista Uberlândia/MG Movimento é Vida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CrossFit Pampulha Academy LTDA ME: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Suplefast Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Pilates Pilateando Renata Firmo: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica Inspire: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Vitor suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Casa Ômega: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Marina Viana Nutricionista Especialista em Gastrointetinal: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para FIT LEAN SUPLEMENTOS NATURAIS: {"error":"Message was not sent: demo daily limit exceeded"}
+Lote 7 enviado com sucesso.
+Aguardando 10 segundos antes de enviar o próximo lote...
+Processando lote 8 de 14...
+Erro ao enviar para Fernando Prado Personal Trainer Uberlândia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Multiplace Galeria Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para LS Trainer Personal Studio: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Cross Experience Saraiva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Shake Minas Gerais Uberlândia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Cross Experience Planalto: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Purextreme: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Aline Andretta: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra. Debora Froehner Saúde da Mulher | Lipedema | Climatério | Emagrecimento: {"error":"Message was not sent: demo daily limit exceeded"}    
+Erro ao enviar para Rafaella Martins Nutricionista Esportiva e Estética Uberlândia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista em Curitiba Dra. Polyanna Ducate: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Kahu CrossFit: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dr. João Gilberto Godoy Nutrólogo: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Core&Care Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Karina Cavallari Vaz: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Shake Nossa Sra Aparecida: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para FitActive Curitiba: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutrium Brasil Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Mercadão Suplementos Rebouças: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Personal Valeria Pinto | Personal Trainer | Treinamento Funcional | Treinamento ao Ar Livre | Consultoria Online: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Cross Nutrition Box Curitiba: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Curitiba Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Funcional Elisangela Cembrani: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Essência do Chá: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Yaraa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Louis Marcondes: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Mercadão Suplementos Agua Verde: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Cross Experience Centro: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para ANA PAULA Personal Trainer em Curitiba: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Personal Trainer Lucas Kravetz: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Easy Suplementos E-commerce (Delivery): {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Wfit Academia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Pilates Curitiba Studio de Pilates Mariana Engelhardt e Terapias Manuais: {"error":"Message was not sent: demo daily limit exceeded"}        
+Erro ao enviar para Dra Elisa Ferrari Nutróloga em Curitiba: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Moncloa Tea Boutique: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para SupleMais: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Tactical Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para La Basque Curitiba Crepes & Sorvetes Premium: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Milkshake UP: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Wellness Personal Studio Curitiba: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Moncloa: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio de Pilates Awana Regini: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Draiohn Treinamento Físico Funcional: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Shake Curitiba: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Kevin Tamanaha Personal Trainer: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dr Shape Maringá PR: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Force One Academia Maringá: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Corpo e Movimento Studio Personal: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dr. Felipe Teixeira Endocrinologista / Nutrologia: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Karina Pankievicz | Nutricionista: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio Equilibrium Pilates Curitiba: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio Personal Trainer: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Profit Studio Pilates e Personal Trainer: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutri Shop: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Wania Carreira Yoga & Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para DVitaminas Maringá: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Andressa Juliane Nutricionista em Maringá: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Allan Stachuk Nutricionista em Maringá Clínico, Esportivo, Comportamental, Emagrecimento, Bodybuilding Coach: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Espaço Fitness Feminino Pably Trainer: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para RG Suplementos Sua Loja de Suplementos em Maringá: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para TNT ACADEMIA: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio Vital Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra. Ligia Zanim: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para ww curitiba suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Bubble Mix Tea Shopping Avenida Center Maringá: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Shake show Curitiba: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Estúdio de Pilates Excellence: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Veridiane Cruz Calderaro Nutricionista em Maringá: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para MEGA-CASA DO CORPO: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Studio de Pilates e Neopilates Suzani Paz: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutrindo Dietas Enterais e Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para TREINADOR MOLINA: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Estúdio de pilates foz │ Fisio Core │ centro: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Vitally Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Estúdio FR Pilates: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Xtreme Muscle Gym: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Alison Gustavo Nutrição Esportiva: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Optipure Supplements: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutrivital Suplementos e Produtos Naturais: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Ph.D Sports Gresfi: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para TR Cataratas: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Mega Suplementos Stresser: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Jéssica Fernandes: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Sorveteria Mac Milk loja 2: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para CwTrends Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia S.A Espaço Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Nutricionista Esportiva Funcional Ana Paula Gluck Karam Foz do Iguaçu: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Puro Shape Suplementos Maringá: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para MilkShakeria Express: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Pro Life Suplementos Shop. Estação: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Academia Curitiba Fitness: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Núcleo Dr. Léo de Assis | Nutrólogo: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Loja AK44 Suplementos Maringá: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Clínica NutreVitta: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Tangerina Produtos Naturais e Suplementos: {"error":"Message was not sent: demo daily limit exceeded"}
+Erro ao enviar para Dra Rafaela Fernandes, Endocrinologia e Nutrologia: {"error":"Message was not sent: demo daily limit exceeded"}
+
+Fernando@FERLAPTOP MINGW64 /c/Projetos/bot_simples_axios (master)
+$
+
+
+
+
+
