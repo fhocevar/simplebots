@@ -1,3 +1,7 @@
+const axios = require('axios');
+
+// Dados da API
+
 const token = '930mocdbts9zze0r';
 const instanceId = 'instance101815';
 

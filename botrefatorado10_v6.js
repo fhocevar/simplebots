@@ -1254,7 +1254,7 @@ function atrasoAleatorio() {
 
 // Função para processar os lotes
 async function enviarLotes() {
-    const lotes = dividirEmLotes(contatos, 100); // Dividindo em lotes de 100 contatos
+    const lotes = dividirEmLotes(contatos, 10); // Dividindo em lotes de 10 contatos
 
     console.log(`Enviando mensagens em ${lotes.length} lotes...`);
 
@@ -1273,7 +1273,8 @@ async function enviarLotes() {
         // Atraso entre os lotes (entre 30 a 60 segundos)
         if (i < lotes.length - 1) {
             console.log('Aguardando 30-60 segundos antes de enviar o próximo lote...');
-            await new Promise(resolve => setTimeout(resolve, Math.floor(Math.random() * (60000 - 30000 + 1)) + 30000)); // Atraso aleatório entre 30 e 60 segundos
+            await new Promise(resolve => setTimeout(resolve, Math.floor(Math.random() * (60000 - 30000 + 1)) + 30000)); 
+            // Atraso aleatório entre 30 e 60 segundos
         }
     }
 
